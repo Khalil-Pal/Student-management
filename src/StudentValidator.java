@@ -11,20 +11,4 @@ public class StudentValidator {
     public static boolean isValidAge(int age) {
         return age >= 0;
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }
