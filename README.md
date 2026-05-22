@@ -17,9 +17,3 @@ A simple yet effective console-based Java application for managing student recor
 
 - Java JDK 17 or higher
 - Any Java IDE (IntelliJ IDEA, Eclipse, VS Code) or command line
-
-### Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/Student-management.git
